@@ -1,0 +1,9 @@
+com.example.randompicker.app-pngs-0 D:\Code\RandomItemPicker\app\build\generated\res\pngs\debug
+com.example.randompicker.app-resValues-1 D:\Code\RandomItemPicker\app\build\generated\res\resValues\debug
+com.example.randompicker.app-updated_navigation_xml-2 D:\Code\RandomItemPicker\app\build\generated\updated_navigation_xml\debug
+com.example.randompicker.app-packageDebugResources-3 D:\Code\RandomItemPicker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.randompicker.app-packageDebugResources-4 D:\Code\RandomItemPicker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.randompicker.app-debug-5 D:\Code\RandomItemPicker\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.randompicker.app-debug-6 D:\Code\RandomItemPicker\app\src\debug\res
+com.example.randompicker.app-main-7 D:\Code\RandomItemPicker\app\src\main\res
+gradleHome-0 C:\Users\Hossein\.gradle

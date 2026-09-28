@@ -1,0 +1,4 @@
+<resources>
+    <!-- Minimal bridge theme; all real theming happens in Compose (see ui/theme). -->
+    <style name="Theme.RandomPicker" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
